@@ -26,7 +26,7 @@
 然后在你的model项目的build.gradle里面添加如下代码
 
 	dependencies {
-	        compile 'com.github.yhsh:XiaYiYe_Tool:v1.0'
+	        compile 'com.github.yhsh:XiaYiYe_Util:v1.0'
 	}
 
 就这样就可以使用我的内库文件了 使用方法： 先把上面的库文件引入，
