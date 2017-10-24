@@ -20,3 +20,6 @@
 先在你的xml清单文件里面的application标签里面配置name：如下：
  android:name="cn.yhsh.xiayiyetools.XiaYiYeApplication" 
  更多工具以后添加，里面更多的工具类，自己可以看下
+
+
+新增加eclipse开发工具支持的jar包，在目录里面下载 	xiayiyeUtils.jar和gson-2.7.jar即可
