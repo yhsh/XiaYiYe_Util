@@ -8,21 +8,7 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	
-	
-	buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.0'
-        //现在你项目project下面的build.gradle文件里面添加如下代码
-        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
 
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
 然后在你的model项目的build.gradle里面添加如下代码
 
 	dependencies {
