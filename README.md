@@ -1,6 +1,7 @@
 第一次上传下一页自制工具类到GitHub
 
 具体使用库的方法： 现在你项目project下面的build.gradle文件里面添加如下代码
+
 	allprojects {
 		repositories {
 			...
@@ -8,6 +9,7 @@
 		}
 	}
 然后在你的model项目的build.gradle里面添加如下代码
+
 	dependencies {
 	        compile 'com.github.yhsh:XiaYiYe_Tool:v1.0'
 	}
